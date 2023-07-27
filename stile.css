@@ -1,0 +1,207 @@
+@font-face {
+    font-family: Offside;
+    src: url("./font/Offside-Regular.ttf");
+}
+@font-face {
+    font-family: MrsSheppards;
+    src: url("./font/MrsSheppards-Regular.ttf");
+}
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+}
+.FishDx {
+    position: fixed;
+    right: 0px;
+    top: -30px;
+    width: 200px;
+    padding: 0px;
+}
+.FishSx {
+    position: fixed;
+    left: 0px;
+    top: -30px;
+    width: 200px;
+    padding: 0px;
+}
+.TitoloUp {
+    max-width: 1200px;
+    margin: auto; 
+    text-align: center;
+    font-size: 6rem;
+    font-weight: bold;
+    font-family: Offside;
+    margin-top: 4rem;
+}
+.TitoloDwn {
+    max-width: 1200px;
+    margin: auto; 
+    text-align: center;
+    font-size: 5rem;
+    font-weight: bold;
+    font-family: Offside;
+    margin-top: 2rem;
+}
+h2 {  
+    max-width: 800px;
+    margin: auto; 
+    text-align: center;
+    font-size: 180px;
+    margin-top: 2rem;
+    font-family: MrsSheppards;
+    font-weight: normal;
+    color: #D4A600
+}
+.intro1  {
+    max-width: 500px;
+    margin: auto; 
+    text-align: center;
+    font-size: 23px;
+    margin-top: 8rem;
+    font-family: Offside;
+}
+.intro2  {
+    max-width: 500px;
+    margin: auto; 
+    text-align: center;
+    font-size: 23px;
+    margin-top: 4rem;
+    font-family: Offside;
+}
+.Jap {
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    font-size: 40px;
+    font-weight: normal;
+    margin-top: 7rem;
+    font-family: Offside;
+}
+.BandJapSX {
+    text-align: left;
+    margin-left: 400px;
+    margin-top: -70px;
+}
+.BandJapDX {
+    text-align: right;
+    margin-right: 400px;
+    margin-top: -90px;
+}
+.TGiappone {
+    max-width: 450px;
+    text-align: left;
+    margin-left: 220px;
+    font-size: 23px;
+    margin-top: 50px;
+    font-family: Offside;
+}
+.colazionejap {
+    margin-left: 700px;
+    position: relative;
+    top: -200px;
+}
+.Isl {
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    font-size: 40px;
+    font-weight: normal;
+    margin-top: -7rem;
+    font-family: Offside;
+}
+.BandIslSX {
+    text-align: left;
+    margin-left: 400px;
+    margin-top: -70px;
+}
+.BandIslDX {
+    text-align: right;
+    margin-right: 400px;
+    margin-top: -80px;
+}
+.TIslanda {
+    max-width: 450px;
+    text-align: left;
+    margin-left: 220px;
+    font-size: 23px;
+    margin-top: 70px;
+    font-family: Offside;
+}
+.colazioneisl {
+    margin-left: 700px;
+    position: relative;
+    top: -220px;
+}
+.Gia {
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    font-size: 40px;
+    font-weight: normal;
+    margin-top: -8rem;
+    font-family: Offside;
+}
+.BandGiaSX {
+    text-align: left;
+    margin-left: 400px;
+    margin-top: -70px;
+}
+.BandGiaDX {
+    text-align: right;
+    margin-right: 400px;
+    margin-top: -80px;
+}
+.TGiamaica {
+    max-width: 450px;
+    text-align: left;
+    margin-left: 220px;
+    font-size: 23px;
+    margin-top: 70px;
+    font-family: Offside;
+}
+.colazionegia {
+    margin-left: 700px;
+    position: relative;
+    top: -260px;
+}
+.Sve {
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    font-size: 40px;
+    font-weight: normal;
+    margin-top: -11rem;
+    font-family: Offside;
+}
+.BandSveSX {
+    text-align: left;
+    margin-left: 400px;
+    margin-top: -70px;
+}
+.BandSveDX {
+    text-align: right;
+    margin-right: 400px;
+    margin-top: -80px;
+}
+.TSvezia {
+    max-width: 450px;
+    text-align: left;
+    margin-left: 220px;
+    font-size: 23px;
+    margin-top: 70px;
+    font-family: Offside;
+}
+.colazionesve {
+    margin-left: 700px;
+    position: relative;
+    top: -250px;
+}
+.Ending {
+    max-width: 1200px;
+    margin: auto; 
+    text-align: center;
+    font-size: 4rem;
+    font-weight: bold;
+    font-family: Offside;
+    margin-top: -7rem;
+}
